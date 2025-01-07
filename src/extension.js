@@ -16,7 +16,7 @@ chrome.devtools.panels.create('Autosave', 'icon.png', 'panel.html', (panel) => {
 
 const resourceSaverScript = `
 
-DevToolsAutosaveResourceSaver = new class DevToolsAutosaveResourceSaver {
+__DevToolsAutosaveResourceSaver__ = new class __DevToolsAutosaveResourceSaver__ {
   
   localStorageKey = '__devToolsAutosaveSavedResources__';
   
@@ -102,7 +102,7 @@ function onResourceContentCommitted(resource, content) {
   const script = `
   (() => {
     
-  const saver = DevToolsAutosaveResourceSaver;
+  const saver = __DevToolsAutosaveResourceSaver__;
   
   const resource = new saver.Resource({
     url: \`${ encodedURL }\`,
@@ -142,7 +142,7 @@ const callback = (mutationList, observer) => {
     document.documentElement.outerHTML
   );
   
-  const saver = DevToolsAutosaveResourceSaver;
+  const saver = __DevToolsAutosaveResourceSaver__;
     
   saver.savePageHTML(encodedHTML);
   
