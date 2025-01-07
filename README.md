@@ -11,7 +11,7 @@ This list is saved to your browser's local storage, meaning it persists between 
 
 ## What resources are saved?
 Any resource you modify through DevTools. This includes:
-- CSS files, including `inspector-stylesheets`
+- CSS files and inline styles, including `inspector-stylesheets`
 - The inspected page's HTML
 - JavaScript files
 - And more
