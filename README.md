@@ -18,4 +18,4 @@ Any resource you modify through DevTools. This includes:
 
 > [!NOTE]
 > When you modify a resource through the Sources panel, it will only be saved once you've saved it in the editor window by pressing <kbd>Ctrl</kbd>/<kbd>⌘</kbd> + <kbd>S</kbd>.  
-> You'll know it's been saved once the astrisk at the end of the resource's name (at the top of the editor window) is gone.
+> You'll know it's been saved when the astrisk at the end of the resource's name (at the top of the editor window) is gone.
