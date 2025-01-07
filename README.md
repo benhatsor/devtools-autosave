@@ -1,5 +1,7 @@
 # DevTools Autosave
 
+No more tears (tm).
+
 Edit some resources in DevTools, then check the Autosave panel (in the DevTools' top bar) to see a list of all the resources you've edited in the inspected page and their contents.  
 This list is saved to your browser's local storage, meaning it persists between browser sessions. Just make sure to not clear your cookies.
 
