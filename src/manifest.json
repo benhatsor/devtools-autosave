@@ -7,7 +7,7 @@
   "version": "1.0",
   "manifest_version": 3,
   "author": "benhatsor",
-  "homepage": "https://github.com/benhatsor/devtools-autosave",
+  "homepage_url": "https://github.com/benhatsor/devtools-autosave",
   "devtools_page": "devtools.html",
   "permissions": [
       "storage"
