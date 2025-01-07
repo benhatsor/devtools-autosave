@@ -1,8 +1,6 @@
 # DevTools Autosave
 
-Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.  
-
-No more tears (tm).
+Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload. No more tears (tm).
 
 <img width="484" alt="Screenshot 2025-01-07 at 3 27 53 AM" src="https://github.com/user-attachments/assets/0a3c3793-471d-436a-a6a3-46b945dd80bd" />
 
