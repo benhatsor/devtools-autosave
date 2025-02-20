@@ -1,9 +1,9 @@
 {
   "name": "DevTools Autosave",
   "icons": {
-    "96": "icon.png"
+    "128": "icons/icon.png"
   },
-  "description": "Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload. No more tears.",
+  "description": "Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.",
   "version": "1.0",
   "manifest_version": 3,
   "author": "benhatsor",
