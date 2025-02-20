@@ -2,7 +2,11 @@
 
 Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.
 
-<img width="485" alt="Screenshot 2025-01-07 at 3 39 26 AM" src="https://github.com/user-attachments/assets/030be62e-9f8c-41e2-a2f9-3dbc59edb451" />
+<p><a href="https://chromewebstore.google.com/detail/hbgfbdihfijldihpbmeobpoejkgcdmic">
+  <img width="170" alt="Chrome Web Store" src="https://developer.chrome.com/static/docs/webstore/branding/image/HRs9MPufa1J1h5glNhut.png">
+</a></p>
+
+<img width="485" alt="Screenshot" src="https://github.com/user-attachments/assets/030be62e-9f8c-41e2-a2f9-3dbc59edb451" />
 
 ## Usage
 Edit some resources in DevTools, then check the Autosave panel (in the DevTools' top bar) to see a list of all the resources you've edited in the inspected page and their contents.  
