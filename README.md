@@ -2,7 +2,7 @@
 
 Never lose any changes you make through DevTools to styles, HTML, or other page resources on reload.
 
-<p><a href="https://chromewebstore.google.com/detail/hbgfbdihfijldihpbmeobpoejkgcdmic">
+<p><a href="https://chromewebstore.google.com/detail/hbgfbdihfijldihpbmeobpoejkgcdmic" target="_blank">
   <img width="170" alt="Chrome Web Store" src="https://github.com/user-attachments/assets/715eb938-b149-49d8-90c8-de876341a91d">
 </a></p>
 
